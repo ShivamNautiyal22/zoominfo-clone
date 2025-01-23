@@ -4,6 +4,7 @@ This is the clone of zoominfo original website made with the use of HTML , CSS a
 this website is full responsive in all devices (mobiles, tablets, big screens, etc)
 
 # original website link is : https://www.zoominfo.com/
+# Clone website link : https://zoominfo.netlify.app/
 
 This website looks same as this above link provided but the footer section has less content than original website because of my main focus on applying javaScript into the page. 
 <br>
